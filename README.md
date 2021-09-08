@@ -1,2 +1,2 @@
 # samplecode
-sample code
+sample code for codebuild
